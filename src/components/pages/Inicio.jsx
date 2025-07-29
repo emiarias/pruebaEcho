@@ -18,7 +18,7 @@ const Inicio = ({canciones}) => {
                 <Form>
                         <Row className="d-flex justify-content-between">
                             <Col xs="auto">
-                                <h3 className="fw-light fs-3 color-secundario">Top Hits</h3>
+                                <h3 className="fw-light fs-3 text-danger">Top Hits</h3>
                             </Col>
                             <Col xs="auto d-flex">
                                 <i className="bi bi-search fs-3 me-2 text-secondary"></i>
